@@ -1,0 +1,16 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "/Users/design/Desktop/test-deal/Test-Deall-IvanPranataGunawan/app/products/page": [
+      "/Users/design/Desktop/test-deal/Test-Deall-IvanPranataGunawan/styles/globals.css"
+    ],
+    "/Users/design/Desktop/test-deal/Test-Deall-IvanPranataGunawan/app/carts/page": [
+      "/Users/design/Desktop/test-deal/Test-Deall-IvanPranataGunawan/styles/globals.css"
+    ],
+    "/Users/design/Desktop/test-deal/Test-Deall-IvanPranataGunawan/app/carts/[index]/page": [
+      "/Users/design/Desktop/test-deal/Test-Deall-IvanPranataGunawan/styles/globals.css"
+    ]
+  },
+  "/Users/design/Desktop/test-deal/Test-Deall-IvanPranataGunawan/app/layout.tsx": [
+    "/Users/design/Desktop/test-deal/Test-Deall-IvanPranataGunawan/styles/globals.css"
+  ]
+}
